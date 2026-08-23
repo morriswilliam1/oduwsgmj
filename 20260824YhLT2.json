@@ -1,0 +1,841 @@
+{
+  "meta": {
+    "title": "北约多国在俄打击范围内",
+    "author": "霄嬏暘",
+    "time": "2026年08月24日05时49分06秒",
+    "version": "2.0"
+  },
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "itemListOrder": "https://schema.org/ItemListOrderUnordered",
+  "name": "Anthropic全面部署Claude隐形文本水印；DeepSeek峰谷分时定价机制生效；南海伏季休渔期结束",
+  "description": "暑期爆火的运动相机：买就吃灰，租才真香",
+  "about": {
+    "@type": "Thing",
+    "name": "www.blog.lfnvs.cn"
+  },
+  "mainEntity": {
+    "@type": "WebPage",
+    "name": "仅剩8个月，AI大脑迎来彻底大换血",
+    "description": "内容页的详细描述，可包含www.blog.lfnvs.cn的相关信息。",
+    "author": {
+      "@type": "Person",
+      "name": "攵牼垳"
+    },
+    "datePublished": "2026年08月24日05时49分06秒",
+    "dateModified": "2026年08月24日05时49分06秒",
+    "inLanguage": "zh-CN",
+    "isPartOf": {
+      "@type": "WebSite",
+      "name": "4岁自闭症男童走失被找到 家中摆宴致谢宾客坐满350桌",
+      "url": "http://www.blog.lfnvs.cn/Article/details/471868.sHtML"
+    }
+  },
+  "share_links": [
+    {
+      "platform": "我老公精力旺盛得吓人，一天只睡三个小时，体能恢复的也特别快",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/745660.sHtML"
+    },
+{
+      "platform": "水果型蔬菜身价翻倍",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/676333.sHtML"
+    },
+{
+      "platform": "俄乌互换103名被俘人员",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/633665.sHtML"
+    },
+{
+      "platform": "美国制裁赤根智子 日本网民炸锅",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/804347.sHtML"
+    },
+{
+      "platform": "患者就诊中昏迷医生被索赔",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/333953.sHtML"
+    },
+{
+      "platform": "湾区超美风景线，一起感受至美南沙",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/980349.sHtML"
+    },
+{
+      "platform": "中国足协回应工作人员被曝曾受韩国足协“不当招待”：已展开调查",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/957457.sHtML"
+    },
+{
+      "platform": "这个39岁的日本阿姨，说话一套一套的！",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/423737.sHtML"
+    },
+{
+      "platform": "中国可回收火箭还有哪些问题待解决",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/680691.sHtML"
+    },
+    {
+      "platform": "20822 star 的开源录屏软件弃 Tauri 换 Electron：表层是换壳，里子是 46 个 Rust 模块",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/917989.sHtML"
+    },
+{
+      "platform": "女导演成AI剧反派原型",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/267332.sHtML"
+    },
+{
+      "platform": "1946年、美国第42任总统克林顿出生",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/451264.sHtML"
+    },
+{
+      "platform": "25年前辽宁一处长被枪击案重启侦查",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/285673.sHtML"
+    },
+{
+      "platform": "智驾“小蓝灯”不符合国标被禁用？车企最新回应",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/402954.sHtML"
+    },
+{
+      "platform": "佛山通报「教师招聘笔试后5名进体检」，区教育局局长、副局长被立案调查，将重新面试，哪些信息值得关注？",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/054217.sHtML"
+    },
+{
+      "platform": "冰箱里囤的雪糕长满了大冰碴子，还能吃吗？",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/420097.sHtML"
+    },
+{
+      "platform": "这骄傲又丑萌的小鸡",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/122512.sHtML"
+    },
+{
+      "platform": "怎样理解“人心中的成见是一座大山”？",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/987090.sHtML"
+    },
+{
+      "platform": "我看见两朵一样的云",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/350891.sHtML"
+    },
+    {
+      "platform": "没想到狗血剧情发生我身上",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/489201.sHtML"
+    },
+{
+      "platform": "Anthropic求锤得锤！Mythos 2被曝雪藏，Mythos 3正秘密研发",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/853976.sHtML"
+    },
+{
+      "platform": "15分钟一局的王者荣耀，成了数学博士生的避难所",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/132693.sHtML"
+    },
+{
+      "platform": "读写分离后查询到旧数据？SpringBoot多数据源一致性方案完整解析",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/478125.sHtML"
+    },
+{
+      "platform": "岚图发布“虎踞”智能底盘，城市SUV能否讲好全地形故事",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/262296.sHtML"
+    },
+{
+      "platform": "公安悬赏100万寻被盗石狮",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/826213.sHtML"
+    },
+{
+      "platform": "外交部：中国公民谨慎赴帕劳旅游",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/731201.sHtML"
+    },
+{
+      "platform": "福特号，林肯号好歹打了大半年才开始闹，这尼玛华盛顿号刚出港就开始闹？真贼配军……",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/256417.sHtML"
+    },
+{
+      "platform": "预售价25.98万元，黄金大五座科技旗舰小鹏G9L重磅亮相",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/826846.sHtML"
+    },
+{
+      "platform": "冷战核废墟变八吉瓦AI超级工厂！黄仁勋押十五亿，OpenAI独霸二十年",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/827638.sHtML"
+    },
+    {
+      "platform": "奥运冠军李雪芮点评安洗莹：没什么进攻，但核心很强、防守好",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/420065.sHtML"
+    },
+{
+      "platform": "独家：宇树上市庆功宴上，王兴兴首次明确「大脑」的技术路线",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/639324.sHtML"
+    },
+{
+      "platform": "杭州酒局事件升级！知情人曝当晚细节，恶心一幕发声，受害女生照片被传播",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/037487.sHtML"
+    },
+{
+      "platform": "面向 Agent 的团队知识供给系统：架构设计与工程落地",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/707013.sHtML"
+    },
+{
+      "platform": "王星案跨境人口贩卖集团 17 名犯罪嫌疑人被提起公诉，涉嫌拐卖妇女罪、绑架罪等，他们将面临怎样的判罚？",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/242522.sHtML"
+    },
+{
+      "platform": "查壳工具 Exeinfo PE 0.0.9.9官方版&集成插件绿色单文件汉化版",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/963432.sHtML"
+    },
+{
+      "platform": "14年、罗马帝国开国皇帝奥古斯都逝世",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/484681.sHtML"
+    },
+{
+      "platform": "我有我的七夕仪式感",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/640382.sHtML"
+    },
+{
+      "platform": "阔腿裤+平底鞋：今年秋天最火搭配，松弛又好看！",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/004239.sHtML"
+    },
+{
+      "platform": "蛋仔沈昭礼温组合技转场",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/231401.sHtML"
+    },
+    {
+      "platform": "AI岗位招聘暴涨156%，年轻人吃肉，但女性、低学历很难分到蛋糕",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/203938.sHtML"
+    },
+{
+      "platform": "同台错位，王兴兴与马斯克殊途不同归",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/810490.sHtML"
+    },
+{
+      "platform": "2女孩买3张火车票 无座乘客想坐被拒",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/197775.sHtML"
+    },
+{
+      "platform": "反诈老陈称线上收入难以维持生活，将线下求职，他的转型困境反映了哪些问题？",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/808223.sHtML"
+    },
+{
+      "platform": "七夕节男子送“花树”找叉车叉回家",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/261319.sHtML"
+    },
+{
+      "platform": "禾赛科技告赢美国国防部：一审判决被推翻，回应称列入相关清单缺乏正当依据",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/608735.sHtML"
+    },
+{
+      "platform": "刚访华不久，美国会机构就嚷嚷：中国占尽优势，咱也得搞",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/194072.sHtML"
+    },
+{
+      "platform": "昆明一检测列车撞人致11死2伤，国铁昆明局被罚300万元",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/667098.sHtML"
+    },
+{
+      "platform": "司机开智驾玩手机冲进施工区",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/686003.sHtML"
+    },
+{
+      "platform": "现在的视觉小说游戏，都这么卷了吗？",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/690031.sHtML"
+    },
+    {
+      "platform": "高级前端如何优雅地拒绝不合理的产品需求？",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/429537.sHtML"
+    },
+{
+      "platform": "科学家颜宁自评：我勉强算人才，王虹才是天才",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/628843.sHtML"
+    },
+{
+      "platform": "5万以下的燃油车 正在被遗忘",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/418115.sHtML"
+    },
+{
+      "platform": "AIOps 故障排障全流程：3 个生产案例排查耗时从 60 分钟降至 5 分钟",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/269488.sHtML"
+    },
+{
+      "platform": "赛马过时了，Wan 3.0还是越早和HappyHorse合并越好",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/849140.sHtML"
+    },
+{
+      "platform": "韩国高温已致19人死亡，李在明要求按“国家灾难状态”应对",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/346124.sHtML"
+    },
+{
+      "platform": "985大学开在县城 考进大山了",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/444898.sHtML"
+    },
+{
+      "platform": "生产 CI/CD 可以完全交给 AI Agent 吗？我们用 30 天验证了一次",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/669578.sHtML"
+    },
+{
+      "platform": "A股震荡行情投资者该如何操作",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/667931.sHtML"
+    },
+{
+      "platform": "金山云 2026 财年半年报归母亏损 4.37 亿元，同比下降 43.4%",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/614110.sHtML"
+    },
+    {
+      "platform": "裁判评议：云南vs英博比赛中，英博三例申诉均被驳回，裁判判罚正确",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/708323.sHtML"
+    },
+{
+      "platform": "热门餐厅免费排号成黄牛牟利新赛道，有人5天赚40万，专家称无法精准打击，为什么？现行法律存在哪些漏洞？",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/506791.sHtML"
+    },
+{
+      "platform": "SEC公布加密货币监管方案",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/404154.sHtML"
+    },
+{
+      "platform": "比特币价格腰斩多空交织",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/213824.sHtML"
+    },
+{
+      "platform": "72岁大爷杀死剧毒眼镜蛇，5分钟后离断蛇头突然“复仇”，毒牙狠狠刺入其掌心，大爷被紧急送医抢救！术后大爷说连做三天噩梦，蛇追着他咬",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/407138.sHtML"
+    },
+{
+      "platform": "年会不能停2延长上映",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/125078.sHtML"
+    },
+{
+      "platform": "为什么美银认为腾讯AI迎来“中途岛时刻”？",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/790352.sHtML"
+    },
+{
+      "platform": "矿山一面墙开采暗藏坍塌风险",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/073023.sHtML"
+    },
+{
+      "platform": "宇树科技上市首日收涨 460%：开盘一度暴涨 629% 市值突破 4400 亿，中一签浮盈近 35 万元",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/396454.sHtML"
+    },
+{
+      "platform": "召唤大将怪兽摧毁文件",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/285491.sHtML"
+    },
+    {
+      "platform": "星铁知更鸟晴歌综合测评",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/366086.sHtML"
+    },
+{
+      "platform": "【七夕快乐】「跟你住」，“想搬进你心里，其它烦心的都不考虑”（cover：孙盛希）",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/340897.sHtML"
+    },
+{
+      "platform": "复刻龙餐馆徐福烩饭",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/928578.sHtML"
+    },
+{
+      "platform": "【AI智能体】Codex 生成高质量电商套图实战操作详解",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/229611.sHtML"
+    },
+{
+      "platform": "氪星晚报｜台积电先进封装CoWoS产能供不应求，订单爆满；小米新一代人形机器人剧透：双足、1.7米左右、全身66个自由度；《全民医疗保障“十五五”规划》发布",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/109692.sHtML"
+    },
+{
+      "platform": "人民日报评杭州"酒局事件"：不仅道德败坏 更违法违规",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/733980.sHtML"
+    },
+{
+      "platform": "女子车内出现死蛇臭了三天才发现",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/975427.sHtML"
+    },
+{
+      "platform": "孩童坐车道玩耍遭转弯车撞击",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/171640.sHtML"
+    },
+{
+      "platform": "阿里二面：RAG的内容超出知识库范围，应该如何检测和拒绝回答，以避免幻觉产生？我说三点，面试官频频点头…",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/930436.sHtML"
+    },
+{
+      "platform": "具身智能9家“大厂派系”融资PK，最强“厂牌”不是字节、百度，也不是大疆",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/694260.sHtML"
+    },
+    {
+      "platform": "吃着不甜，却能让血糖飙升的8种食物！还是公认健康粗粮！",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/663872.sHtML"
+    },
+{
+      "platform": "网红猪油渣别当零食吃",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/139426.sHtML"
+    },
+{
+      "platform": "【短视频】七夕快乐呀呀",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/681469.sHtML"
+    },
+{
+      "platform": "中国上市公司告赢美国国防部",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/867284.sHtML"
+    },
+{
+      "platform": "升学宴女儿墙垮塌村民发声",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/034227.sHtML"
+    },
+{
+      "platform": "DeepSeek Harness 如何基于 Cordis 实现插件化 Agent 模式",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/110863.sHtML"
+    },
+{
+      "platform": "WTM何时出现？8个月内的必然",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/010044.sHtML"
+    },
+{
+      "platform": "贵州一村庄升学宴“瘦身”",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/594314.sHtML"
+    },
+{
+      "platform": "1871年、美国飞机设计师奥维尔·莱特诞生",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/536545.sHtML"
+    },
+{
+      "platform": "2女孩买3张票 无座乘客想坐被拒",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/947587.sHtML"
+    },
+    {
+      "platform": "金山云：上半年营收 57.76 亿元，同比增长 33.7%",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/629166.sHtML"
+    },
+{
+      "platform": "美军紧急“救援”林肯号",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/428398.sHtML"
+    },
+{
+      "platform": "267 英寸巨幕打游戏、第一视角拍 Coser，雷鸟创新CJ26亮相",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/208632.sHtML"
+    },
+{
+      "platform": "DeepSeek Harness 插件：HTML 实时可视化编辑",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/753355.sHtML"
+    },
+{
+      "platform": "开源两天 9.5 万 Star！DeepSeek Harness 到底是个啥？小白安装到实战一篇讲透",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/465591.sHtML"
+    },
+{
+      "platform": "吓到腿软，电梯突然失控从31楼下坠到负2楼！一家三人分别遭遇电梯下坠事件，海伦国际小区电梯故障频发",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/058951.sHtML"
+    },
+{
+      "platform": "8年养育3女儿非亲生案开庭",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/882232.sHtML"
+    },
+{
+      "platform": "50岁果农到澳大利亚教人种葡萄 雇主为其提供别墅汽车",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/394585.sHtML"
+    },
+{
+      "platform": "硅谷掀起“晒表”潮：科技公司定制款帝舵腕表成职场身份新象征",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/459321.sHtML"
+    },
+{
+      "platform": "足协评议费利佩进球被吹：裁判判罚没问题，与角球无关",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/768532.sHtML"
+    },
+    {
+      "platform": "真爱降临时，请为我响起Take my hand 【夏雅】",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/880998.sHtML"
+    },
+{
+      "platform": "北大数院发布菲尔兹奖得主王虹万字专访，有哪些内容值得关注？",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/698363.sHtML"
+    },
+{
+      "platform": "8年感情，老公对我很好，但我好像已经不爱他了怎么办？",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/263058.sHtML"
+    },
+{
+      "platform": "这场文艺汇演如同百花齐放",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/586002.sHtML"
+    },
+{
+      "platform": "ACM MM'26 | 浙大开源PhyEdit：单图编辑+精准3D物体操作",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/815114.sHtML"
+    },
+{
+      "platform": "三亚小众玩法 | 春天刚来，我便开始想念海边的漫时光",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/962918.sHtML"
+    },
+{
+      "platform": "给 DeepSeek Harness 装一个任务面板：DSH Task Board 快速上手",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/808668.sHtML"
+    },
+{
+      "platform": "不同职业的老叟戏顽童",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/089686.sHtML"
+    },
+{
+      "platform": "Claude Code 是怎么恢复一段会话的？",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/629582.sHtML"
+    },
+{
+      "platform": "刘一朵真成全国景区了",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/682012.sHtML"
+    },
+    {
+      "platform": "ECharts 有对手了？TanStack Charts 重新定义图表库",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/010028.sHtML"
+    },
+{
+      "platform": "我出轨了今天老婆正式通知了她家人",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/540601.sHtML"
+    },
+{
+      "platform": "直接就是养乐多啊，这么直接的吗？",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/905814.sHtML"
+    },
+{
+      "platform": "瞬时回放 v1.0.0｜错过精彩瞬间？一键保存「刚刚发生的画面」",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/029121.sHtML"
+    },
+{
+      "platform": "河南出台带薪休假新政：领导干部要带头休假，推动全员应休尽休、休满休足，对纸面休假、弄虚作假的机关事业单位约谈通报、限期整改",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/270495.sHtML"
+    },
+{
+      "platform": "龙芯胡伟武：3B6600 用 1Xnm 工艺追平 AMD 英特尔 7nm 性能",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/864841.sHtML"
+    },
+{
+      "platform": "我国首次实现火箭陆地回收",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/323922.sHtML"
+    },
+{
+      "platform": "AI 满篇的“不是……而是……”，我开始不敢写了",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/735601.sHtML"
+    },
+{
+      "platform": "天山打洞只因那头有人民",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/137781.sHtML"
+    },
+{
+      "platform": "DeepSeek Harness 开源，下一代 Agent 基础设施长什么样？",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/084755.sHtML"
+    },
+    {
+      "platform": "宇树目前888，下午怎么看兄弟们？",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/850994.sHtML"
+    },
+{
+      "platform": "小说下载器 - 你的网文自由神器！",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/069811.sHtML"
+    },
+{
+      "platform": "朱雀三号回收成功，如何看待蓝箭和 SpaceX 陆基回收路线的竞争？",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/260918.sHtML"
+    },
+{
+      "platform": "李在明表态收回战时指挥权意味着啥",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/031255.sHtML"
+    },
+{
+      "platform": "如何评价起点中文网大量下榜万均 AI 作品的行为？这一举措对网文行业后续发展有何影响？",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/644801.sHtML"
+    },
+{
+      "platform": "千问办公正式上架鸿蒙电脑，企业级Agent深度融入鸿蒙用户工作流",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/243919.sHtML"
+    },
+{
+      "platform": "联想携手TCL华星亮相，牵头共建电竞显示体验生态计划",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/370050.sHtML"
+    },
+{
+      "platform": "1岁女童玩蜗牛后患严重脑膜炎",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/925130.sHtML"
+    },
+{
+      "platform": "欧洲现在没有一个共产主义国家，马克思如果看到这一幕、会不会万念俱灰",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/838046.sHtML"
+    },
+{
+      "platform": "工厂模式与 Nest.js 核心思想 —— 从蜜雪冰城到企业级架构",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/186576.sHtML"
+    },
+    {
+      "platform": "邵永灵谈西方媒体酸中国机器狗的成功",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/158633.sHtML"
+    },
+{
+      "platform": "OpenAI公开四加十条保命指南，专防AI自动化攻击",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/537520.sHtML"
+    },
+{
+      "platform": "上海：推动 300 米以下低空公共航路实现移动通信网络全线覆盖",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/592313.sHtML"
+    },
+{
+      "platform": "绿色版图片转ICO/PNG图标小工具（软件更新）",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/957358.sHtML"
+    },
+{
+      "platform": "多次嘲讽周星驰“无儿无女、没有朋友、不敢见人”，李修贤道歉：不该在公众场合讲那些；从没压榨周星驰，也没把他卖掉；请不要网暴我家人",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/764322.sHtML"
+    },
+{
+      "platform": "宇树科技上市首日收涨 460%，盘中一度暴涨 629%，市值突破 4400 亿，如何评价其市场表现？",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/666620.sHtML"
+    },
+{
+      "platform": "女孩买空座放零食大姐想坐遭拒",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/399254.sHtML"
+    },
+{
+      "platform": "PopTrans-v1.0.0开源离线截屏翻译软件",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/936146.sHtML"
+    },
+{
+      "platform": "奕境X9预售12小时订单突破16000台",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/420872.sHtML"
+    },
+{
+      "platform": "这也太爽了吧，我也想要这么干",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/455111.sHtML"
+    },
+    {
+      "platform": "如果明清时间对换，明朝能不能避免我国近代的屈辱？",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/573725.sHtML"
+    },
+{
+      "platform": "石家庄一居民楼部分坍塌致3死",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/106723.sHtML"
+    },
+{
+      "platform": "存储“三国杀”变局：三星扩大领先 美光追近海力士",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/996842.sHtML"
+    },
+{
+      "platform": "中消协点名AI客服转人工不畅、网贷不规范催收等",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/407859.sHtML"
+    },
+{
+      "platform": "造谣青岛大学旭日旗者被拘",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/722351.sHtML"
+    },
+{
+      "platform": "重大跨境赌博犯罪集团骨干落网",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/549897.sHtML"
+    },
+{
+      "platform": "时隔21年，上海地铁将调价",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/726682.sHtML"
+    },
+{
+      "platform": "中国妇女报评杭州酒局事件：整治畸形酒桌文化尚须久久为功",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/992225.sHtML"
+    },
+{
+      "platform": "新一代智能手表颜智实力派，华为WATCH GT 7系列正式发布",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/659763.sHtML"
+    },
+{
+      "platform": "应休尽休！河南带薪休假新政来了！鼓励试行“周五半天+周末+年假”短途度假模式",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/790370.sHtML"
+    },
+    {
+      "platform": "独臂少年刘宸瑞，考入清华",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/303341.sHtML"
+    },
+{
+      "platform": "迁移uni-app x，我是如何让 AI 把我一步步搞崩溃的...",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/341014.sHtML"
+    },
+{
+      "platform": "七夕不用来了因为我的登来了",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/708664.sHtML"
+    },
+{
+      "platform": "“龙餐馆”走红谁又“破防”了",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/026539.sHtML"
+    },
+{
+      "platform": "如何评价《一人之下》第773(827）话预告？",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/384990.sHtML"
+    },
+{
+      "platform": "智谱发布 GLM-5.3，编程能力更强；传苹果训练国内专用 AI 模型；微信：朋友圈现在、过去、未来都不会有二次编辑功能 | 极客早知道",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/407480.sHtML"
+    },
+{
+      "platform": "股价涨完后，百亿算力大单接连告吹",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/575788.sHtML"
+    },
+{
+      "platform": "分布式GPU智能算法深度研究2026年版（下）",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/067686.sHtML"
+    },
+{
+      "platform": "12岁女孩语音交友打赏11万",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/101685.sHtML"
+    },
+{
+      "platform": "让《牛来》这种烂片赚到票房我是真不中了，纯粹是劣币驱逐良币，它根本不算是动画。等会给制作方整出信心，继续熊来、羊来、狗来、猪来就完了。 ???",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/427821.sHtML"
+    },
+    {
+      "platform": "空枪檀健次模仿广西普通话",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/626002.sHtML"
+    },
+{
+      "platform": "龚俊在巴黎感受环法",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/896604.sHtML"
+    },
+{
+      "platform": "胖东来澄清“无门槛招聘刑满释放人员”：排除性侵等恶性犯罪前科人员",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/738196.sHtML"
+    },
+{
+      "platform": "汽车被树根包裹多年漆面完整",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/752893.sHtML"
+    },
+{
+      "platform": "买票占座放零食 这座位该让吗",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/488578.sHtML"
+    },
+{
+      "platform": "降至2.7%！银行房贷利率再现低位",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/788885.sHtML"
+    },
+{
+      "platform": "学者：俄土微妙关系面临严峻挑战",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/165279.sHtML"
+    },
+{
+      "platform": "落实省会引领：南昌，加速跑",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/671256.sHtML"
+    },
+{
+      "platform": "1942年、斯大林格勒大会战在纳粹德国和苏联之间展开",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/343659.sHtML"
+    },
+{
+      "platform": "海军中将赵晓哲院士被工程院“除名”",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/378444.sHtML"
+    },
+    {
+      "platform": "美股三大指数期货集体转涨",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/515418.sHtML"
+    },
+{
+      "platform": "女子乘飞机后眼前现黑影",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/943206.sHtML"
+    },
+{
+      "platform": "50＋女人到底该不该“塞衣角”？看完这3组对比图，你就知道答案",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/832546.sHtML"
+    },
+{
+      "platform": "滴滴 AI 研发岗一面：Agent 有几种设计模式？不能只背五个名字",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/590536.sHtML"
+    },
+{
+      "platform": "长电科技完成 1.5μm 小孔径 11.3:1 高深宽比 TSV（硅通孔）试制",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/139511.sHtML"
+    },
+{
+      "platform": "清华今年录取4000余名学生",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/453996.sHtML"
+    },
+{
+      "platform": "大家会记住对象那些无心说出来的小事吗？JR们进来聊聊",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/381257.sHtML"
+    },
+{
+      "platform": "拿下顶级大厂社招offer的经验分享（外企非码农版）",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/965842.sHtML"
+    },
+{
+      "platform": "鸿蒙组件化设计横空出世",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/626565.sHtML"
+    },
+{
+      "platform": "女子称脱衣时酒店房门突然打开",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/702599.sHtML"
+    },
+    {
+      "platform": "大家庭方盒子新物种长城H10正式上市，限时换新价20.18万元起",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/401699.sHtML"
+    },
+{
+      "platform": "TikTok带货博主卷疯快递：三天，从深圳到伦敦",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/061388.sHtML"
+    },
+{
+      "platform": "即使 Agent 被劫持，也拿不到私钥：一种零信任 MCP 执行架构",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/113716.sHtML"
+    },
+{
+      "platform": "快手 2026 财年上半年归母净利润 60.49 亿元，同比下降 32%",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/663830.sHtML"
+    },
+{
+      "platform": "为什么你现在不发朋友圈了？",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/888498.sHtML"
+    },
+{
+      "platform": "面试官：LLM 响应慢导致整个 Agent 链路超时，你说一下分层超时的熔断策略是什么？",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/738743.sHtML"
+    },
+{
+      "platform": "火影晓三飞段全技能爆料",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/864728.sHtML"
+    },
+{
+      "platform": "用Spring Boot复刻了“微信消息撤回”：真正难的根本不是DELETE，而是让所有人的聊天窗口同时消失",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/790970.sHtML"
+    },
+{
+      "platform": "AI开始自己研发AI！硅谷首席科学家：大模型研发可能在2030年前后实现全面自动化，程序员将面对海量Agent产出",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/324694.sHtML"
+    },
+{
+      "platform": "外交部：重申“敌国条款”含义，对严防军国主义幽灵死灰复燃具有重要意义",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/135761.sHtML"
+    },
+    {
+      "platform": "LangChain 们的丧钟？DeepSeek 把 Agent 开发变成了拼乐高",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/811133.sHtML"
+    },
+{
+      "platform": "康佳集团原副总裁杨波被查",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/997049.sHtML"
+    },
+{
+      "platform": "拍张写真祝老己七夕快乐",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/420182.sHtML"
+    },
+{
+      "platform": "情侣领证男生把婚前财产都给女生",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/799363.sHtML"
+    },
+{
+      "platform": "陈新武当选重庆市市长",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/045223.sHtML"
+    },
+{
+      "platform": "公积金新规9月20日起实施",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/659824.sHtML"
+    },
+{
+      "platform": "人形机器人运动会，比什么",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/945096.sHtML"
+    },
+{
+      "platform": "《牛来》火了？我用ThreeJs实现了一个简易版的，代码全送给你，文章最后附演示效果",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/296233.sHtML"
+    },
+{
+      "platform": "日网友：上空也封锁了，这样就进不来了。",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/906980.sHtML"
+    },
+{
+      "platform": "《人民日报》刊文：“两个80%”的警示",
+      "share_url": "http://www.blog.lfnvs.cn/Article/details/888012.sHtML"
+    }
+]
+}
+<h2>行业趋势点评</h2><br>
+https://github.com/clarkemaria9/plfeglt/blob/main/20260824unWBu.json</br>https://github.com/robinsongarrett4/aydnpscx/blob/main/20260824bpwil.json</br>https://github.com/gonzaleszachary863/srerpbb/blob/main/20260824XONRp.json</br>https://github.com/huntwilliam07/orpdfxx/blob/main/20260824Zs4BU.json</br>https://github.com/diazedward8191/tsabn/blob/main/20260824OOE1Q.json</br>
+<hr></hr><hr></hr><br>
+<h2>**AI Builders Digest* | 每日06:00自动播报 | 数据来源：</h2><br>
+https://github.com/williamscrystal127/krqcnf/blob/main/20260824lcSA7.json</br>https://github.com/parkeramy72/opedzy/blob/main/20260824ShLNQ.json</br>https://github.com/gonzaleszachary863/srerpbb/blob/main/20260824rJoxz.json</br>https://github.com/clarkemaria9/plfeglt/blob/main/20260824MkdKZ.json</br>https://github.com/fisheranna28/wabvjmez/blob/main/20260824Az0Gf.json</br>
+<hr></hr><br>
+<p>*报告生成时间：2026年08月24日05时49分06秒*</p>
+<br>
+<p>*数据来源：新浪财经、公开媒体报道*</p>
